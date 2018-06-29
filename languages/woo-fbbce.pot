@@ -1,0 +1,74 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Force Booking Before Coupon Expiration\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-29 10:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Description of the plugin
+msgid ""
+"Add-on for WooCommerce and WooCommerce Bookings that forces booked date to "
+"be before the expiration date of a coupon used while making the booking."
+msgstr ""
+
+#: includes/class-woo-fbbce-date-limiter.php:79
+msgid "and"
+msgstr ""
+
+#: includes/class-woo-fbbce-date-limiter.php:69
+#, php-format
+msgctxt "coupon name, coupon expiry, product name"
+msgid ""
+"The coupon \"%1$s\" can only be used on a booking with date prior to %2$s. "
+"Please book an earlier date for %3$s to benefit from \"%1$s\"."
+msgstr ""
+
+#: includes/class-woo-fbbce-date-limiter.php:83
+#, php-format
+msgctxt "coupon name, coupon expiry, product names"
+msgid ""
+"The coupon \"%1$s\" can only be used on bookings with dates prior to %2$s. "
+"Please book earlier dates for %3$s to benefit from \"%1$s\"."
+msgstr ""
+
+#: woo-fbbce.php:65
+msgctxt "Dependencies missing admin notice"
+msgid ""
+"Please install and activate both WooCommerce and WooCommerce Bookings to use "
+"the WooCommerce Force Booking Before Coupon Expiration plugin."
+msgstr ""
+
+#. Author of the plugin
+msgid "FissioMedia"
+msgstr ""
+
+#: includes/class-woo-fbbce-coupon-settings.php:24
+msgid "Force booking before coupon expiration"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.fissiomedia.fi"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.github.com/fissiomedia"
+msgstr ""
+
+#: includes/class-woo-fbbce-coupon-settings.php:25
+msgid ""
+"This coupon can only be applied to bookings that have date prior to coupon "
+"expiry date."
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Force Booking Before Coupon Expiration"
+msgstr ""
