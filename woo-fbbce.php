@@ -2,7 +2,7 @@
 /*
  * Plugin Name:   WooCommerce Force Booking Before Coupon Expiration
  * Version:       1.0.0
- * Plugin URI:    https://www.github.com/fissiomedia
+ * Plugin URI:    https://github.com/FissioMedia/woo-fbbce
  * Description:   Add-on for WooCommerce and WooCommerce Bookings that forces booked date to be before the expiration date of a coupon used while making the booking.
  * Author:        FissioMedia
  * Author URI:    https://www.fissiomedia.fi
